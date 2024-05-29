@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/santiagomaf/esp/projects_tensor/hello_world/hello_world/build/CMakeFiles/bootloader
+/home/santiagomaf/esp/projects_tensor/hello_world/hello_world/build/CMakeFiles/bootloader.rule
+/home/santiagomaf/esp/projects_tensor/hello_world/hello_world/build/CMakeFiles/bootloader-complete.rule
+/home/santiagomaf/esp/projects_tensor/hello_world/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/santiagomaf/esp/projects_tensor/hello_world/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/santiagomaf/esp/projects_tensor/hello_world/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/santiagomaf/esp/projects_tensor/hello_world/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/santiagomaf/esp/projects_tensor/hello_world/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/santiagomaf/esp/projects_tensor/hello_world/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/santiagomaf/esp/projects_tensor/hello_world/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
